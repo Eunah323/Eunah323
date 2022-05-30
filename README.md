@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## 💖Contact me
 <p>
-<a href="unapretty@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90" height="30"/></a>
+<a href="mailto:"unapretty@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90" height="30"/></a>
 
 
 
